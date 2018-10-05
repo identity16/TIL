@@ -4,7 +4,16 @@
 
 ## 대입
 같은 구조체 타입의 변수끼리 대입하면 멤버가 복사된다.
-```cp
+```cpp
+struct {
+	char Name[30];
+	char MPhoneNum[20];
+} Friend, Friend1;
+
+...
+Friend = Friend1;	// 가능!
+...
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0OTU4MTA4M119
+eyJoaXN0b3J5IjpbNzIwMTY0NjQwXX0=
 -->
