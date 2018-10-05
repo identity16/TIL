@@ -14,6 +14,9 @@ struct {
 Friend = Friend1;	// 가능!
 ...
 ```
+
+> 같은 수, 같은 자료형을 가진 다른 구조체 타입의 변수 끼리도 가능?
+> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIwMTY0NjQwXX0=
+eyJoaXN0b3J5IjpbLTEwMTQ5NzA3NDhdfQ==
 -->
