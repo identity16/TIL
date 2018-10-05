@@ -1,10 +1,18 @@
 # Namespace
 ```cpp
-namespace 이름
+namespace NS
 {
 	// Code..
+	int a = 200;	// Example
+}
+...
+int main() {
+	...
+	cout << NS::a;
+	...
 }
 ```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1MTA4MjI1NV19
+eyJoaXN0b3J5IjpbMTAyMDk2OTgwNV19
 -->
