@@ -2,12 +2,17 @@
 ## 선언
 ```cpp
 class IntSample {
-	void showScore();
-	int score;
+public:
+    void showScore();
+    void setScore(int score);
+    int getScore();
+
+private:
+    int score;
 }
 
 void IntSample::showScore() {
-	...
+    ...
 }
 
 ...
@@ -23,7 +28,6 @@ default가 `private`임
 - private
 - protected
 - public
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA4MTkwMTUzXX0=
+eyJoaXN0b3J5IjpbLTE5NTM4MTc5NTUsODA4MTkwMTUzXX0=
 -->
