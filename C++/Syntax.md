@@ -5,6 +5,7 @@ C++에서는 `static_case<type>(variable)`으로도 형 변환이 가능하다. 
 > 차이가 없다면 어떤 이유에서 이런 문법이 만들어졌는지
 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNzY0OTgwOF19
+eyJoaXN0b3J5IjpbMTUyNzA3NjQ2LDE3Mjc2NDk4MDhdfQ==
 -->
