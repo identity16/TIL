@@ -4,8 +4,13 @@ C++에서는 `static_case<type>(variable)`으로도 형 변환이 가능하다. 
 > 어떤 차이?
 > 차이가 없다면 어떤 이유에서 이런 문법이 만들어졌는지
 
+## 논리형
+`bool`이라는 타입을 사용
+- 입력 : 0 -> false, 나머지 -> true
+- 출력 : true -> 1, false -> 0
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNzA3NjQ2LDE3Mjc2NDk4MDhdfQ==
+eyJoaXN0b3J5IjpbMzYzMjIyMTUzLDE3Mjc2NDk4MDhdfQ==
 -->
