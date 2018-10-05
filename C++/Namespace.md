@@ -1,4 +1,5 @@
 # Namespace
+## namespace 선언
 ```cpp
 namespace NS
 {
@@ -13,6 +14,10 @@ int main() {
 }
 ```
 
+## 정의된 namespace 사용
+```cpp
+using namespace [NS_name];
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMDk2OTgwNV19
+eyJoaXN0b3J5IjpbMjU2NDA1MzM5XX0=
 -->
