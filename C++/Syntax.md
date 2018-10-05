@@ -10,7 +10,7 @@ C++에서는 `static_case<type>(variable)`으로도 형 변환이 가능하다. 
 - 출력 : true -> 1, false -> 0
 
 
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYzMjIyMTUzLDE3Mjc2NDk4MDhdfQ==
+eyJoaXN0b3J5IjpbMTUwMjE2OTg3LDM2MzIyMjE1MywxNzI3Nj
+Q5ODA4XX0=
 -->
