@@ -21,7 +21,9 @@ IntSample obj;		// 객체 생성
 ## 접근제어자
 default가 `private`임
 - private
-- prot
+- protected
+- public
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzczOTg2Ml19
+eyJoaXN0b3J5IjpbODA4MTkwMTUzXX0=
 -->
