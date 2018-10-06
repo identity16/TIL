@@ -34,8 +34,9 @@ default가 `private`임
 ## 소멸자
 `~ClassName();` 형태
 
-
+## `new`
+new 연산자로 객체를 생성하면 객체의 주소가 ㅇ
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5OTE5MjExMSwxNzE5NjU5MjEsODA4MT
-kwMTUzXX0=
+eyJoaXN0b3J5IjpbLTE4Mzk5OTI5NiwxMzk5MTkyMTExLDE3MT
+k2NTkyMSw4MDgxOTAxNTNdfQ==
 -->
