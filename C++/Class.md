@@ -38,8 +38,16 @@ default가 `private`임
 new 연산자로 객체를 생성하면 객체의 주소를 넘겨주기 때문에 포인터 변수로 받아야 한다.
 
 ## `&` 타입
+기존 변수에 새로운 별명을 추가하는 느낌?
+```cpp
+int x = 100;
+int &Y = x;
+Y = 200;	// now, x = 200
+cout << x;	// prints 200
+```
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU5NzkwOTA3LDEzOTkxOTIxMTEsMTcxOT
-Y1OTIxLDgwODE5MDE1M119
+eyJoaXN0b3J5IjpbNzgwNTYxNTgsMTM5OTE5MjExMSwxNzE5Nj
+U5MjEsODA4MTkwMTUzXX0=
 -->
