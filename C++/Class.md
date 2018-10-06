@@ -35,8 +35,11 @@ default가 `private`임
 `~ClassName();` 형태
 
 ## `new`
-new 연산자로 객체를 생성하면 객체의 주소가 ㅇ
+new 연산자로 객체를 생성하면 객체의 주소를 넘겨주기 때문에 포인터 변수로 받아야 한다.
+
+## `&` 타입
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mzk5OTI5NiwxMzk5MTkyMTExLDE3MT
-k2NTkyMSw4MDgxOTAxNTNdfQ==
+eyJoaXN0b3J5IjpbNTU5NzkwOTA3LDEzOTkxOTIxMTEsMTcxOT
+Y1OTIxLDgwODE5MDE1M119
 -->
