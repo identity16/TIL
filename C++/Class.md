@@ -29,8 +29,11 @@ default가 `private`임
 - public
 
 ## 복사생성자
+생성자 인자로 객체를 넣어주면 멤버변수를 복사해서 새로운 객체 생성
 
+## 소멸자
+`~ClassName();` 꼴
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY3NTcwNDU1LDE3MTk2NTkyMSw4MDgxOT
-AxNTNdfQ==
+eyJoaXN0b3J5IjpbLTE3NjUzMDMwMzQsMTcxOTY1OTIxLDgwOD
+E5MDE1M119
 -->
