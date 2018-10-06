@@ -47,8 +47,12 @@ cout << x;	// prints 200
 ```
 
 ## `this`
-객체 자신의 ***포인터***
+객체 자신의 **포인터**
+
+## 프렌드 함수
+특정 클래스와 친분 관계를 허락하여 `private` 멤버를 참조할 수 있음
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDg5NzE3MjUsMTM5OTE5MjExMSwxNz
+eyJoaXN0b3J5IjpbLTE1MTUwOTgwODcsMTM5OTE5MjExMSwxNz
 E5NjU5MjEsODA4MTkwMTUzXX0=
 -->
