@@ -46,8 +46,9 @@ Y = 200;	// now, x = 200
 cout << x;	// prints 200
 ```
 
-
+## `this`
+객체 자신의 ***포인터***
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgwNTYxNTgsMTM5OTE5MjExMSwxNzE5Nj
-U5MjEsODA4MTkwMTUzXX0=
+eyJoaXN0b3J5IjpbLTEyNDg5NzE3MjUsMTM5OTE5MjExMSwxNz
+E5NjU5MjEsODA4MTkwMTUzXX0=
 -->
