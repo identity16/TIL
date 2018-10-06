@@ -50,11 +50,10 @@ cout << x;	// prints 200
 객체 자신의 **포인터**
 
 ## 프렌드 함수
-특정 클래스와 친분 관계를 허락하여 `private` 멤버를 참조할 수 있음
-```cpp
+특정 클래스 또는 함수와 친분 관계를 허락하여 자신의 `private` 멤버를 참조할 수 있도록 함
 
-```
+> 아직은 그 필요성이나 역할이 잘 와닿지 않음...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MTEyMTg1NiwxMzk5MTkyMTExLDE3MT
-k2NTkyMSw4MDgxOTAxNTNdfQ==
+eyJoaXN0b3J5IjpbLTIwNjkzMTQ2OTgsMTk3MTEyMTg1NiwxMz
+k5MTkyMTExLDE3MTk2NTkyMSw4MDgxOTAxNTNdfQ==
 -->
